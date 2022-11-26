@@ -18,4 +18,4 @@ I am Somnath Dubey, a passionate student and software engineer, open source enth
 
 - 🌱 Learning Java, Javascript, and React.
 - 🚀 Know more about my professional experience and achievements on LinkedIn.
-- 💬 Get in touch or Ask me Anything on Linkdin.
+- 💬 Get in touch or Ask me Anything on Linkedin.
