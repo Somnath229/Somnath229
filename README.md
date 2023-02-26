@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 I am Somnath Dubey, a passionate student and software engineer, open source enthusiast and studying computer science at GGSESTC, Jharkhand. I love contributing to and building open source projects.
 
-- 🌱 Learning Java, Javascript, and React.
+- 🌱 Learning Java, Javascript, and Web technologies.
 - 🚀 Know more about my professional experience and achievements on LinkedIn.
 - 💬 Get in touch or Ask me Anything on Linkedin.
